@@ -1,4 +1,4 @@
-<?php return array (
+中文包<?php return array (
   'trans' => 
   array (
     'Login Page' => 
